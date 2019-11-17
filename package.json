@@ -1,0 +1,19 @@
+{
+  "name": "start_angular_project",
+  "version": "1.0.0",
+  "description": "start_angular_project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dsunil017/Start_Angular_Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dsunil017/Start_Angular_Project/issues"
+  },
+  "homepage": "https://github.com/Dsunil017/Start_Angular_Project#readme"
+}

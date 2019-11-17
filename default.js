@@ -1,2 +1,2 @@
 console.log("test me");
-console.log("Suceess");
+console.log("Success");

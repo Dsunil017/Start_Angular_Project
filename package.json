@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/Dsunil017/Start_Angular_Project.git"
   },
-  "author": "",
+  "author": "SunilDhappadhule",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Dsunil017/Start_Angular_Project/issues"
   },
-  "homepage": "https://github.com/Dsunil017/Start_Angular_Project#readme"
+  "homepage": "https://github.com/Dsunil017/Start_Angular_Project#readme",
+  "keywords": [
+    "Angularstartfile"
+  ]
 }
